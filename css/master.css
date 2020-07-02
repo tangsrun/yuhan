@@ -1,0 +1,73 @@
+*{margin: auto;}
+html, body {width: 100%; display: inline-block;width: 1440px; background-color: #000000;}
+.logo_form{height: 100px; background-image: url(..img/logoBG.png); background-color: #000000;text-align: center;}
+.logotext_form{color: #14eeff; }
+
+.logotext_form a:link{}
+.logotext_form a:visited{}}
+.logotext_form a:active{}
+.logotext_form a:hover {}
+
+.menu_form{height: 100px; background-color: #000000; text-align: center;}
+.menutext_form{display: inline-block;margin: 10px 80px 40px 10px;text-align: center; font-family: 'OLD SPORT 01 COLlege ncv', Regular; font-size:2em; font-weight: 100;letter-spacing:.1em;position: relative;top: 14px;}
+
+.menutext_form a:link{text-decoration: none; color: #00f0ff;}
+  .menutext_form a:visited{color: #00f0ff;}
+    .menutext_form a:active{color: #00f0ff;}
+      .menutext_form a:hover {color:#00f0ff; text-shadow: 0 0 10px #02c1d2,0 0 20px #00fffc,0 0 30px #00ccff,0 0 40px #0193bd,0 0 70px #00eaff,0 0 80px #00f0ff,0 0 100px #9196ff,0 0 150px #00eaff; background:#000;}
+
+.sec_index{background-color: #000000;}
+
+.lost20px{height: 20px; background-color: #000000;}
+.lost25px{height: 25px; background-color: #000000;}
+
+#pr1{height: 201px; width: 100%; background-size: cover;}
+#pr1-2{height: 206px; width: 100%; background-size: cover;}
+#pr2{height: 183px; width: 100%; background-size: cover;}
+#pr22{height: 744px; width: 100%; background-size: cover;}
+#pr3{height: 183px; width: 100%; background-size: cover;}
+#pr33{height: 745px; width: 100%; background-size: cover;}
+
+.p1{background-image: url(../img/pr_01.png);}
+.p1-2{background-image: url(../img/pr_02.png);}
+.p1-2-1{color: #ffffff; font-family: 'Nanum Gothic', sans-serif; font-size:1.28em; text-align: center; position: relative;top: 0px;}
+.p1-2-2{color: #ffffff; font-family: 'Nanum Gothic', sans-serif; font-size:1.28em; text-align: center; position: relative;top: 5px;}
+.p1-2-3{color: #ffffff; font-family: 'Nanum Gothic', sans-serif; font-size:1.28em; text-align: center; position: relative;top: 10px;}
+
+
+.p2{background-color: #000000;}
+.p22{background-color: #000000;}
+
+.p2a{text-decoration: none; color: #00f0ff; display: inline-block; margin: 0px 0px 0px 0px; text-align: center; font-family: 'OLD SPORT 01 COLlege ncv', Regular; font-size:2em; font-weight: 100;}
+
+.p2a a:link{text-decoration: none; color: #00f0ff;}
+.p2a a:visited{color: #00f0ff;}
+.p2a a:active{color: #00f0ff;}
+.p2a a:hover {color:#00f0ff; text-shadow: 0 0 10px #02c1d2,0 0 20px #00fffc,0 0 30px #00ccff,0 0 40px #0193bd,0 0 70px #00eaff,0 0 80px #00f0ff,0 0 100px #9196ff,0 0 150px #00eaff; background:#000;}
+.p2a:hover {color:#00f0ff; text-shadow: 0 0 10px #02c1d2,0 0 20px #00fffc,0 0 30px #00ccff,0 0 40px #0193bd,0 0 70px #00eaff,0 0 80px #00f0ff,0 0 100px #9196ff,0 0 150px #00eaff; background:#000;}
+
+.p3{background-color: #000000;}
+.p33{background-color: #000000;}
+
+.p3a{text-decoration: none; color: #00f0ff; display: inline-block; margin: 0px 0px 0px 0px; text-align: center; font-family: 'OLD SPORT 01 COLlege ncv', Regular; font-size:2em; font-weight: 100;}
+
+.p3a a:link{text-decoration: none; color: #00f0ff;}
+.p3a a:visited{color: #00f0ff;}
+.p3a a:active{color: #00f0ff;}
+.p3a a:hover {color:#00f0ff; text-shadow: 0 0 10px #02c1d2,0 0 20px #00fffc,0 0 30px #00ccff,0 0 40px #0193bd,0 0 70px #00eaff,0 0 80px #00f0ff,0 0 100px #9196ff,0 0 150px #00eaff; background:#000;}
+.p3a:hover {color:#00f0ff; text-shadow: 0 0 10px #02c1d2,0 0 20px #00fffc,0 0 30px #00ccff,0 0 40px #0193bd,0 0 70px #00eaff,0 0 80px #00f0ff,0 0 100px #9196ff,0 0 150px #00eaff; background:#000;}
+
+.posi{text-align: center; position: relative;left: 50%; top: 50%;transform: translateX(-50%) translateY(-50%);}
+/**.posi :hover{transform: scale(1.2);translation: 1s}**/
+
+.footer_form{height: 100px; width: 100%; background-size: cover; background: #000000;text-align: center;}
+.footertext_form{}
+
+.p1_top{background-color: #ffffff; background-image: url(../img/p01main.png); height: 860px; background-size: cover;}
+.p1_bot{background-image: url(../img/p01text2.png); height: 1376px; background-size: cover;}
+
+.p2_top{background-image: url(../img/p02top.png); height: 230px; background-size: cover;}
+.p2_main{background-image: url(../img/p02main.png); height: 2031px; background-size: cover;}
+
+.p3_top{background-image: url(../img/p03top.png); height: 230px; background-size: cover;}
+.p3_main{background-image: url(../img/p03main.png); height: 2031px; background-size: cover;}
